@@ -1,0 +1,22 @@
+.page-header {
+ background-image: url("https://womenlovetech.com/wp-content/uploads/2020/05/apple_wwdc-announcement_ready-set-code_05052020_big.jpg.large_2x.jpg"); 
+ height: 600px;
+ max-width: width auto;
+ color:grey ;
+};
+.introduction{
+    text-align: center;
+    color: grey;
+}
+
+.start-quiz {
+    color: crimson;
+    font-size: 17px;
+    text-align:center;
+    
+    
+};
+
+button {
+   background-color:green;
+};
